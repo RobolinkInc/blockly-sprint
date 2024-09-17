@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/blockly-sprint/static/css/main.3a2ee155.css",
-    "main.js": "/blockly-sprint/static/js/main.fbf205ed.js",
+    "main.css": "/blockly-sprint/static/css/main.7ceea269.css",
+    "main.js": "/blockly-sprint/static/js/main.521126ec.js",
     "static/js/605.75a9386f.chunk.js": "/blockly-sprint/static/js/605.75a9386f.chunk.js",
     "static/js/565.31beafe5.chunk.js": "/blockly-sprint/static/js/565.31beafe5.chunk.js",
     "static/js/357.d9724ae2.chunk.js": "/blockly-sprint/static/js/357.d9724ae2.chunk.js",
@@ -96,7 +96,7 @@
     "static/media/cdm1.xml": "/blockly-sprint/static/media/cdm1.b083984842465914685f.xml"
   },
   "entrypoints": [
-    "static/css/main.3a2ee155.css",
-    "static/js/main.fbf205ed.js"
+    "static/css/main.7ceea269.css",
+    "static/js/main.521126ec.js"
   ]
 }
