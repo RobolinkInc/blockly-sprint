@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blockly-sprint/static/css/main.7ceea269.css",
-    "main.js": "/blockly-sprint/static/js/main.8dd4b743.js",
+    "main.js": "/blockly-sprint/static/js/main.6c0b039f.js",
     "static/js/605.75a9386f.chunk.js": "/blockly-sprint/static/js/605.75a9386f.chunk.js",
     "static/js/565.31beafe5.chunk.js": "/blockly-sprint/static/js/565.31beafe5.chunk.js",
     "static/js/357.d9724ae2.chunk.js": "/blockly-sprint/static/js/357.d9724ae2.chunk.js",
@@ -97,6 +97,6 @@
   },
   "entrypoints": [
     "static/css/main.7ceea269.css",
-    "static/js/main.8dd4b743.js"
+    "static/js/main.6c0b039f.js"
   ]
 }
